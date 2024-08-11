@@ -1,0 +1,12 @@
+.login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.credentials {
+  display: grid;
+  grid-template-rows: 0.5fr 1fr;
+  grid-template-columns: 0.5fr 1fr;
+  grid-row-gap: 25px;
+}
